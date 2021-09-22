@@ -56,7 +56,7 @@ Amsterdam. They placed a gypsy woman at one end of the
 village and set up the telescope at the entrance to the
 tent. For the price of five reales, people could look into
 the telescope and see the gypsy woman an arm's length away.
-"Science has eliminated distance,"Melquíades proclaimed. "In
+"Science has eliminated distance," Melquíades proclaimed. "In
 a short time, man will be able to see what is happening in
 any place in the world without leaving his own house." A
 burning noonday sun brought out a startling demonstration
@@ -134,7 +134,7 @@ father, devastated by his prolonged vigil and by the wrath
 of his imagination, revealed his discovery to them: 
 \\\\"The earth is round, like an orange." 
 \\\\Úrsula lost her patience. "If you have to go
-crazy,please go crazy all by yourself!" she shouted. "But
+crazy, please go crazy all by yourself!" she shouted. "But
 don't try to put your gypsy ideas into the heads of the
 children." José Arcadio Buendía, impassive, did not let
 himself be frightened by the desperation of his wife, who,
@@ -1226,7 +1226,7 @@ father did not get upset. He put the basket in its place and
 tied it to the leg of a table, convinced that the
 long-awaited event was imminent. It was on that occasion
 that Auerliano heard him say:
-\\\\"If you don't fear God, fear him through the metals.
+\\\\"If you don't fear God, fear him through the metals."
 \\\\Suddenly, almost five months after her disappearance,
 Úrsula came back. She arrived exalted, rejuvenated, with new
 clothes in a style that was unknown in the village. José
@@ -1928,7 +1928,7 @@ wanted. She showed him the official document. José Arcadio
 Buendía, without understanding what his wife was talking
 about, deciphered the signature.
 \\\\"Who is this fellow?" he asked:
-\\\\"The magistrate," Úrsula answered disconsolately. They
+\\\\"The magistrate," Úrsula answered disconsolately. "They
 say he's an authority sent by the government."
 \\\\Don Apolinar Moscote, the magistrate, had arrived in
 Macondo very quietly. He put up at the Hotel Jacob - built
@@ -3690,7 +3690,7 @@ a soaped brush. "José Arcadio came back a big man, taller
 than you, and all covered with needle-work, but he only
 brought shame to our house." She thought she noticed,
 however, that her husband would grow sad with the bad news.
-Then she decided to lie to him. ‘Rou won't believe what I'm
+Then she decided to lie to him. "You won't believe what I'm
 going to tell you," she said as she threw ashes over his
 excrement in order to pick it up with the shovel. "God
 willed that José Arcadio and Rebeca should get married, and
@@ -4154,8 +4154,8 @@ not speak until they asked him for his last request.
 again:"Úrsula, like her grandmother. And tell her also that
 if the child that is to be born is a boy, they should name
 him José Arcadio, not for his uncle, but for his
-grandfather.
-\\\\"Before they took him to the execution wall Father
+grandfather."
+\\\\Before they took him to the execution wall Father
 Nicanor tried to attend him. "I have nothing to repent,"
 Arcadio said, and he put himself under the orders of the
 squad after drinking a cup of black coffee. The leader of
@@ -4437,9 +4437,9 @@ made up the squad, and they'll bury him right there."Rebeca
 kept on waiting. "They're stupid enough to shoot him here,"
 she said. She was so certain that she had foreseen the way
 she would open the door to wave good-bye. "They won't bring
-him through the streets,"José Arcadio insisted, with six
+him through the streets,"José Arcadio insisted, "with six
 scared soldiers and knowing that the people are ready for
-anything."Indifferent to her husband's logic, Rebeca stayed
+anything." Indifferent to her husband's logic, Rebeca stayed
 by the window.
 \\\\"You'll see that they're just stupid enough," she said.
 \\\\On Tuesday, at five in the morning, José Arcadio had
@@ -4535,7 +4535,7 @@ Colonel Gerineldo Márquez.
 Santa Sofía de la Piedad with her older daughter and a pair
 of twins, who had been born five months after Arcadio had
 been shot. Contrary to the victim's last wishes, she
-baptized the girl with the name of Remedios. I'm sure that
+baptized the girl with the name of Remedios. "I'm sure that
 was what Arcadio meant," she alleged. "We won't call her
 Úrsula, because a person suffers too much with that name."
 The twins were named José Arcadio Segundo and Aureliano
@@ -5338,7 +5338,7 @@ captain tried to search him forcibly and Aureliano José, who
 was unarmed, began to run. The soldiers disobeyed the order
 to shoot. "He's a Buendía," one of them explained. Blind
 with rage, the captain then snatched away the rifle, stepped
-into the center of the street, and took aim."
+into the center of the street, and took aim.
 \\\\"Cowards!" he shouted. "I only wish it was Colonel
 Aureliano Buendía."
 \\\\Carmelita Montiel, a twenty-year-old virgin, had just
@@ -7564,7 +7564,7 @@ square shoulders and with a tattoo of ashes on his forehead,
 and through the haze of dust she saw him in the haze of
 other times with a double-barreled shotgun on his shoulder
 and a string of rabbits in his hand.
-\\\\"For the love of God," she said in a low voice, it's not
+\\\\"For the love of God," she said in a low voice, "it's not
 right for them to come to me with that memory now."
 \\\\"I want to rent the house," Aureliano Triste said.
 \\\\The woman then raised the pistol, aiming with a firm
@@ -8255,7 +8255,7 @@ in front of the house and with his old stentorian voice,
 restored by a deep disgust with himself, he unloaded upon
 them the burden of hate that he could no longer bear in his
 heart.
-\\\\"One of these days," he shouted, I'm going to arm my
+\\\\"One of these days," he shouted, "I'm going to arm my
 boys so we can get rid of these shitty gringos!"
 \\\\During the course of that week, at different places
 along the coast, his seventeen sons were hunted down like
@@ -8272,7 +8272,7 @@ well-lighted Street of the Turks when someone in the crowd
 who was never identified fired a revolver shot which knocked
 him over into a caldron of boiling lard. A few minutes later
 someone knocked at the door of the room where Aureliano
-Arcaya was shut up with a woman and shouted to him:"Hurry
+Arcaya was shut up with a woman and shouted to him: "Hurry
 up, they're killing your brothers." The woman who was with
 him said later that Aureliano Arcaya jumped out of bed and
 opened the door and was greeted with the discharge of a
@@ -8670,7 +8670,8 @@ swallow over a century of conformity.
 \\\\Amaranta, who was starting to put the clothes into the
 trunk, thought that she had been bitten by a scorpion.
 \\\\"Where is it?" she asked in alarm.
-\\\\"What?""The bug!" Amaranta said.
+\\\\"What?"
+\\\\"The bug!" Amaranta said.
 \\\\Úrsula put a finger on her heart.
 \\\\"Here," she said.
 \\\\On Thursday, at two in the afternoon, José Arcadio left
@@ -9176,7 +9177,7 @@ workshop door, Colonel Aureliano Buendía awoke with the
 impression that he had fallen asleep involuntarily for a few
 seconds and that he had not had time to dream anything.
 \\\\"Not today." he told the barber. "We'll make it on
-Friday.
+Friday."
 \\\\He had a three-day beard speckled with white hairs, but
 he did not think it necessary to shave because on Friday he
 was going to have his hair cut and it could all be done at
@@ -9720,7 +9721,7 @@ by age and martyrdom, and she was surprised at how much she
 resembled the mental image that she had of herself. Úrsula
 understood by the silence in the bedroom that it had begun
 to grow dark.
-\\\\"Say good-bye to Fernanda," she begged her. One minute
+\\\\"Say good-bye to Fernanda," she begged her. "One minute
 of reconciliation is worth more than a whole life of
 friendship."
 \\\\"It's of no use now," Amaranta replied.
@@ -10613,7 +10614,7 @@ haven't been any dead here," she said. "Since the time of
 your uncle, the colonel, nothing has happened in Macondo."
 In the three kitchens where José Arcadio Segundo stopped
 before reaching home they told him the same thing. "There
-weren't any dead. He went through the small square by the
+weren't any dead." He went through the small square by the
 station and he saw the fritter stands piled one on top of
 the other and he could find no trace of the massacre. The
 streets were deserted under the persistent rain and the
@@ -10682,7 +10683,7 @@ going on, but the military denied it even to the relatives
 of the victims who crowded the commandant's offices in
 search of news."You must have been dreaming," the officers
 insisted. "Nothing has happened in Macondo, nothing has ever
-happened, and nothing ever will happen. "This is a happy
+happened, and nothing ever will happen. This is a happy
 town." In that way they were finally able to wipe out the
 union leaders.
 \\\\The only survivor was José Arcadio Segundo. One February
@@ -10746,7 +10747,7 @@ clarity, the same respite from dust and destruction that
 Aureliano Segundo had known in childhood and that only
 Colonel Aureliano Buendía could not perceive. But the
 officer was only interested in the chamberpots.
-\\\\"How many people live in this house?' he asked.
+\\\\"How many people live in this house?" he asked.
 \\\\"Five."
 \\\\The officer obviously did not understand. He paused with
 his glance on the space where Aureliano Segundo and Santa
